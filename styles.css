@@ -23,11 +23,11 @@
 }
 .idea {
   font-weight: 700;
-  padding: 4;
   color: #fff;
-  margin: auto;
   text-transform: uppercase;
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
+  margin: auto;
+  padding: 4px;
 }
